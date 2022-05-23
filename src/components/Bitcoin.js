@@ -25,7 +25,7 @@ function Bitcoin() {
           <div className="flex justify-start mb-9">
             <img
               className=""
-              src="https://i.ibb.co/hRcr1bK/unsplash-pyt6-ZAHfmx4.png"
+              src="https://i.ibb.co/FJq5xwt/unsplash-pyt6-ZAHfmx4-1.png"
             ></img>
           </div>
 
@@ -87,7 +87,7 @@ function Bitcoin() {
           <div className="flex justify-end">
             <img
               className=""
-              src="https://i.ibb.co/GPvZ4T9/Group-306.png"
+              src="https://i.ibb.co/bsFpTLq/Mask-Group-3.png"
             ></img>
           </div>
         </div>
@@ -171,3 +171,6 @@ function Bitcoin() {
 }
 
 export default Bitcoin;
+
+//<a href="https://imgbb.com/"><img src="https://i.ibb.co/FJq5xwt/unsplash-pyt6-ZAHfmx4-1.png" alt="unsplash-pyt6-ZAHfmx4-1" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>resolution monitor size</a><br />
+//<a href="https://imgbb.com/"><img src="https://i.ibb.co/bsFpTLq/Mask-Group-3.png" alt="Mask-Group-3" border="0"></a>

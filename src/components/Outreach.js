@@ -9,7 +9,7 @@ export class Outreach extends Component {
             <div>
               <img
                 className=""
-                src="https://i.ibb.co/sw24tK9/Group-965.png"
+                src="https://i.ibb.co/xYmsRsz/Group-965-1.png"
               ></img>
             </div>
             <div className="pl-5 pt-0">
@@ -62,7 +62,7 @@ export class Outreach extends Component {
             <div className="grid grid-cols-2">
               <img
                 className=""
-                src="https://i.ibb.co/qD7MhkZ/Mask-Group.png"
+                src="https://i.ibb.co/wM6PjVd/Mask-Group-2.png"
                 alt="Mask-Group"
               ></img>
               <img
@@ -271,7 +271,7 @@ export class Outreach extends Component {
               <div>
                 <img
                   className=""
-                  src="https://i.ibb.co/sw24tK9/Group-965.png"
+                  src="https://i.ibb.co/xYmsRsz/Group-965-1.png"
                 ></img>
               </div>
               <div className="pl-5 pt-0">

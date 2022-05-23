@@ -23,7 +23,7 @@ function Profile() {
             <div>
               <img
                 className=""
-                src="https://i.ibb.co/sw24tK9/Group-965.png"
+                src="https://i.ibb.co/xYmsRsz/Group-965-1.png"
               ></img>
             </div>
             <div className="pl-5 pt-0">
@@ -81,7 +81,7 @@ function Profile() {
             <div className="flex">
               <img
                 className=""
-                src="https://i.ibb.co/qD7MhkZ/Mask-Group.png"
+                src="https://i.ibb.co/wM6PjVd/Mask-Group-2.png"
                 alt="Mask-Group"
               ></img>
               <img
@@ -291,7 +291,7 @@ function Profile() {
               <div>
                 <img
                   className=""
-                  src="https://i.ibb.co/sw24tK9/Group-965.png"
+                  src="https://i.ibb.co/xYmsRsz/Group-965-1.png"
                 ></img>
               </div>
               <div className="pl-5 pt-0">
@@ -324,3 +324,5 @@ export default Profile;
 //<a href="https://imgbb.com/"><img src="https://i.ibb.co/Zm1ksXw/Work-Studio-Creative-Space-1.png" alt="Work-Studio-Creative-Space-1" border="0"></a>
 //<a href="https://ibb.co/YQNT2Fc"><img src="https://i.ibb.co/yPNB0c6/aaa.jpg" alt="aaa" border="0"></a>
 //<a href="https://imgbb.com/"><img src="https://i.ibb.co/0yZxWjQ/image-72.png" alt="image-72" border="0"></a>
+//<a href="https://imgbb.com/"><img src="https://i.ibb.co/xYmsRsz/Group-965-1.png" alt="Group-965-1" border="0"></a>
+//<a href="https://imgbb.com/"><img src="https://i.ibb.co/wM6PjVd/Mask-Group-2.png" alt="Mask-Group-2" border="0"></a>
