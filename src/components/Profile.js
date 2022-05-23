@@ -51,7 +51,7 @@ function Profile() {
           <div className="grid grid-cols-2">
             <div className="flexc flex-col text-left ml-[100px] ">
               <h1 className="text-5xl pt-[150px] font-bold text-black">
-                Web Developer
+                I am a Web Developer
               </h1>
               <p className="mt-10 font-thin text-base">
                 Passionate full-stack web developer with 1+ years of self
